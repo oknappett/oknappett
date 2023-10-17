@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oknappett
 - 👀 I’m interested in robotics and Artificial intelligence. Any kind of autonomous behaviour/artifical intelligence concept gets me interested!
-- 🌱 I’m currently studying Artificial Intelligence MSc at Aberystwyth University 
+- 🌱 I’m currently a junior robotic engineer at Satallite Applications Catapult 
 
 
 <!---
