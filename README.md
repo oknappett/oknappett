@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @oknappett
-- 👀 I’m interested in robotics and Artificial intelligence. Any kind of autonomous behaviour/artifical intelligence concept gets me interested!
+- 👀 I’m interested in robotics and Artificial intelligence. Any kind of intelligent robotics get's me going!
+
 - 🌱 I’m currently a junior robotic engineer at Satallite Applications Catapult 
 
 
